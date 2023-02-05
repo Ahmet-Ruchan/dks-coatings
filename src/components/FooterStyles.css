@@ -72,4 +72,14 @@
     width: 140px;
     height: 110px;
   }
+  .scroll-to-top{
+    overflow: visible;
+    display:flow-root;
+    width: 10xp;
+    height: 5px;
+    color: white;
+    padding-right: 15px;
+    margin-right: -5px;
+    /* display: none !important; */
+  }
 }

@@ -11,7 +11,7 @@ import pdf2 from "../assets/Next-generation-silicon-anodes.pdf";
 const Footer = () => {
   return (
     <>
-      <ScrollToTop style={{backgroundColor: "grey", paddingRight:"45px",marginRight:"-25px"}} width="30px" height="25px" color="white" smooth />
+      <ScrollToTop className="scroll-to-top" style={{backgroundColor: "grey", paddingRight:"45px",marginRight:"-25px"}} width="30px" height="25px" color="white" smooth />
       
       <div className="footer">
         <div className="top">
